@@ -1,34 +1,18 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate [Your Profession] based in [Your Location]. Welcome to my GitHub profile!
+I'm a passionate Full-Stack Web Developer and I really enjoy making peoples lives easier. I graduated from bootcamp at the end of 2023 and can't wait to bring my skills to the table. I am always looking to make new friends, share ideas, and make the world a better place. 
 
-## About Me
+## 🔧 Technologies & Tools
 
-I love [Your Interests/Hobbies] and am always eager to learn and explore new technologies. [Any other interesting information about yourself].
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## Find Me Online
+## 📈 GitHub Stats
 
-- [Twitter](https://twitter.com/YourTwitterHandle)
-- [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
-- [Website/Blog](https://yourwebsite.com)
+[![kelseadecker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=stars&count_private=true&theme=radical)](https://github.com/kelseadecker)
 
-## Skills
+## 📫 Let's Connect
 
-- **Programming Languages:**
-  - ![HTML](https://img.shields.io/badge/-HTML-orange)
-  - ![CSS](https://img.shields.io/badge/-CSS-blue)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- **Web Development:** [List of web technologies/frameworks you're familiar with]
-- **Other Skills:** [Any other relevant skills]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelsea-decker-9a01162a0//)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/deckercreates)
 
-## A Glimpse of Me
-![Your Name](url-to-your-image)
-
-Feel free to explore my repositories and connect with me on social media!
-
-
-
-<!---
-kelseadecker/kelseadecker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
