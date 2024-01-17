@@ -18,5 +18,5 @@ My name is Kelsea and I'm a passionate Full-Stack Web Developer and I really enj
 
 ## 📈 GitHub Stats
 
-[![kelseadecker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=stars&count_private=true&theme=radical)](https://github.com/kelseadecker)
+[![kelseadecker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelseadecker&show_icons=true&hide=stars&count_private=true&theme=radical)](https://github.com/kelseadecker)
 
