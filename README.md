@@ -20,9 +20,3 @@ My name is Kelsea and I'm a passionate Full-Stack Web Developer and I really enj
 
 [![kelseadecker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=stars&count_private=true&theme=radical)](https://github.com/kelseadecker)
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelsea-decker-9a01162a0//)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/deckercreates)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/deckercreates/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@DeckerCreates)
