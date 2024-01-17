@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Kelsea, a passionate Full Stack Developer based in Las Vegas, NV. Welcome to my GitHub profile!
+I'm [Your Name], a passionate [Your Profession] based in [Your Location]. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -8,13 +8,16 @@ I love [Your Interests/Hobbies] and am always eager to learn and explore new tec
 
 ## Find Me Online
 
-- [Twitter](https://x.com/deckercreates?s=21&t=bI3J7bkEij0tIoNU_7LY3w)
-- [LinkedIn](https://www.linkedin.com/in/kelsea-decker-9a01162a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [Twitter](https://twitter.com/YourTwitterHandle)
+- [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
 - [Website/Blog](https://yourwebsite.com)
 
 ## Skills
 
-- **Programming Languages:** [List of languages you're proficient in]
+- **Programming Languages:**
+  - ![HTML](https://img.shields.io/badge/-HTML-orange)
+  - ![CSS](https://img.shields.io/badge/-CSS-blue)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 - **Web Development:** [List of web technologies/frameworks you're familiar with]
 - **Other Skills:** [Any other relevant skills]
 
@@ -22,6 +25,7 @@ I love [Your Interests/Hobbies] and am always eager to learn and explore new tec
 ![Your Name](url-to-your-image)
 
 Feel free to explore my repositories and connect with me on social media!
+
 
 
 <!---
