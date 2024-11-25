@@ -25,9 +25,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![kelseadecker](https://github-readme-stats.vercel.app/api?username=
-kelseadecker&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+![kelseadecker](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
 
 ---
 
