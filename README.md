@@ -25,17 +25,13 @@
 ---
 
 ### 📊 GitHub Stats  
-![kelseadecker](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![kelseadecker](https://github-readme-stats.vercel.app/api?username=
+kelseadecker&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
 
 ---
 
-### 🌐 Let's Connect!  
-- [LinkedIn](https://linkedin.com/in/yourname)  
-- [Portfolio](https://yourportfolio.com)  
-- [Twitter](https://twitter.com/yourhandle)  
 
----
 
  
 
