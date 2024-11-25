@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋  
+# Hi there, I'm Kelsea! 👋  
 
 ### 🌟 About Me  
 - 🚀 Passionate Fullstack Web Developer
