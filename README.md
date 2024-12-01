@@ -18,7 +18,7 @@
 ### 📂 Featured Projects  
 | Project Name | Description | Tech Stack |  
 | ------------ | ----------- | ---------- |  
-| [Awesome Project 1](https://github.com/username/project1)
+| Choices | Adventure Game |(https://github.com/kelseadecker/Choices.git) |
 | [Awesome Project 2](https://github.com/username/project2) 
 | [Awesome Project 3](https://github.com/username/project3) 
 
