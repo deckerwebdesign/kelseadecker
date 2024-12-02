@@ -19,7 +19,7 @@
 | Project Name | Description | Tech Stack |  
 | ------------ | ----------- | ---------- |  
 | Choices | Adventure Game |(https://github.com/kelseadecker/Choices.git) |
-| Mad Libs Game Generator (using Python)| (https://github.com/kelseadecker/mad-libs-generator.git) |
+| Mad Libs Game Generator | Build a Python program that uses user input to replace placeholders in a text template, demonstrating string manipulation, input handling, and basic program flow. | (https://github.com/kelseadecker/mad-libs-generator.git) |
 | [Awesome Project 3](https://github.com/username/project3) 
 
 ---
