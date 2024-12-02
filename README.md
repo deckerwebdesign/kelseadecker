@@ -3,7 +3,7 @@
 ### 🌟 About Me  
 - 🚀 Passionate Fullstack Web Developer
 - 💻 Crafting solutions with HTML, CSS, & Javascript
-- 🌱 Currently exploring Blockchain 
+- 🌱 Currently exploring Python 
 - ✍️ Always building, learning, and collaborating on meaningful projects.  
 
 ---
