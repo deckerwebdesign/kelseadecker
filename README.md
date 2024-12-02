@@ -19,7 +19,7 @@
 | Project Name | Description | Tech Stack |  
 | ------------ | ----------- | ---------- |  
 | Choices | Adventure Game |(https://github.com/kelseadecker/Choices.git) |
-| [Awesome Project 2](https://github.com/username/project2) 
+| Mad Libs Game Generator (using Python)| (https://github.com/kelseadecker/mad-libs-generator.git) |
 | [Awesome Project 3](https://github.com/username/project3) 
 
 ---
