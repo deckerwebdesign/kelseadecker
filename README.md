@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi there, I'm Kelsea! 👋<br><br>🌟 About Me<br>🚀 Passionate Fullstack Web Developer<br>💻 Crafting solutions with HTML, CSS, & Javascript<br>🌱 Currently exploring Python<br>✍️ Always building, learning, and collaborating on meaningful projects.<br><br>💼 What I Do<br>🔹 Problem Solver: Designing efficient, scalable, and elegant solutions.<br>🔹 Open Source Contributor: Actively contributing to the dev community.<br>🔹 Lifelong Learner: Staying curious and keeping up with tech trends.<br><br>
 
 
