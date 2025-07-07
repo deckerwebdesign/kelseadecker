@@ -15,6 +15,8 @@ Hi there, I'm Kelsea! 👋<br><br>🌟 About Me<br>🚀 Passionate Fullstack Web
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![Visitor Count](https://profile-counter.glitch.me/deckerwebdesign/count.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kelseadecker&icon=0&color=0)](https://visitcount.itsvg.in)
 
