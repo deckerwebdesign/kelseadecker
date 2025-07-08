@@ -13,9 +13,9 @@
 ---
 
 ### 📊 GitHub Stats
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deckerwebdesign&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deckerwebdesign&layout=compact&theme=radical)
 
 ---
 
